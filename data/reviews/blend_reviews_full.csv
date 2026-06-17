@@ -1,0 +1,366 @@
+date,langue,note,sentiment,texte,source,nb_mots,mois,mois_str,texte_clean
+2025-09-26,EN,4,positif,Burger was cooked to perfection and the onion rings were fantastic.,Google Maps,11,2025-09,Sep 2025,cooked perfection onion rings fantastic
+2025-09-08,FR,5,positif,"Absolument incroyable, le meilleur burger de Casablanca sans aucun doute.",TripAdvisor,10,2025-09,Sep 2025,absolument incroyable meilleur sans aucun doute
+2025-03-29,FR,5,positif,"Ambiance New-York au cœur de Casa, j'adore l'endroit.",Google Maps,8,2025-03,Mar 2025,ambiance new-york cœur j'adore l'endroit
+2026-03-20,FR,1,négatif,"Allergie grave après le burger, fromage potentiellement périmé. Scandaleux.",Google Maps,9,2026-03,Mar 2026,allergie grave après fromage potentiellement périmé scandaleux
+2025-03-21,FR,5,positif,meilleure adresse burger que j'ai testée au Maroc.,TripAdvisor,8,2025-03,Mar 2025,meilleure adresse j'ai testée maroc
+2025-12-21,EN,5,positif,"One of the best burgers I've had anywhere in the world, seriously.",TripAdvisor,12,2025-12,Dec 2025,one best anywhere world seriously
+2026-03-01,FR,5,positif,"le Béarnaise burger est une merveille, cuisson parfaite.",TripAdvisor,8,2026-03,Mar 2026,béarnaise merveille cuisson parfaite
+2025-05-22,FR,4,positif,"Accueil chaleureux dès l'entrée, l'équipe est vraiment sympa.",TripAdvisor,8,2025-05,May 2025,accueil chaleureux dès l'entrée l'équipe sympa
+2025-07-12,EN,5,positif,"Great halal options, the quality rivals any burger spot in Europe.",TripAdvisor,11,2025-07,Jul 2025,halal options quality rivals spot europe
+2026-01-27,FR,4,positif,"Les burgers sont juteux et savoureux, on reviendra sans hésiter.",Google Maps,10,2026-01,Jan 2026,juteux savoureux reviendra sans hésiter
+2025-08-15,FR,2,négatif,Qualité en baisse par rapport à mes visites précédentes il y a un an.,Google Maps,14,2025-08,Aug 2025,qualité baisse rapport visites précédentes
+2025-12-20,FR,5,positif,"Vraiment une bonne surprise, meilleur que ce à quoi je m'attendais.",TripAdvisor,11,2025-12,Dec 2025,bonne surprise meilleur quoi m'attendais
+2025-03-09,FR,1,négatif,"Vraiment, le bun sans gluten était absent ce jour-là malgré ce qu'indique la carte.",TripAdvisor,14,2025-03,Mar 2025,bun sans gluten absent jour-là malgré qu'indique carte
+2025-04-20,FR,5,positif,"Burger parfaitement équilibré, bun moelleux, steak haché épais.",TripAdvisor,8,2025-04,Apr 2025,parfaitement équilibré bun moelleux steak haché épais
+2025-05-23,EN,5,positif,"One of the best burgers I've had anywhere in the world, seriously.",TripAdvisor,12,2025-05,May 2025,one best anywhere world seriously
+2025-05-05,FR,1,négatif,"En résumé, attente de plus d'une heure un samedi soir, inacceptable pour un fast-food gourmet.",Google Maps,15,2025-05,May 2025,résumé attente d'une heure samedi soir inacceptable fast-food gourmet
+2025-05-06,FR,5,positif,"En résumé, ingrédients frais, burger bien assemblé, service souriant.",TripAdvisor,9,2025-05,May 2025,résumé ingrédients frais assemblé service souriant
+2025-11-14,FR,4,mitigé,"Franchement, bon mais sans plus. Le buzz autour de cet endroit est peut-être excessif.",TripAdvisor,14,2025-11,Nov 2025,franchement bon sans buzz autour cet peut-être excessif
+2026-02-18,FR,2,négatif,La viande était trop cuite alors que j'avais demandé saignant explicitement.,Google Maps,11,2026-02,Feb 2026,viande cuite alors j'avais demandé saignant explicitement
+2025-07-14,FR,4,positif,"Burger parfaitement équilibré, bun moelleux, steak haché épais.",Google Maps,8,2025-07,Jul 2025,parfaitement équilibré bun moelleux steak haché épais
+2025-07-13,FR,5,positif,"Ingrédients frais, burger bien assemblé, service souriant.",TripAdvisor,7,2025-07,Jul 2025,ingrédients frais assemblé service souriant
+2025-11-30,EN,5,positif,The staff was super helpful recommending dishes. All excellent.,TripAdvisor,9,2025-11,Nov 2025,staff super helpful recommending dishes excellent
+2025-12-06,FR,5,positif,"En résumé, commande livrée rapidement et chaude, conditionnement soigné.",TripAdvisor,9,2025-12,Dec 2025,résumé commande livrée rapidement chaude conditionnement soigné
+2025-08-22,FR,3,mitigé,Le burger était excellent mais le service du soir était beaucoup plus lent.,TripAdvisor,13,2025-08,Aug 2025,excellent service soir lent
+2025-04-30,FR,3,mitigé,L'expérience était bien mais le dessert a tardé anormalement longtemps.,TripAdvisor,10,2025-04,Apr 2025,l'expérience dessert tardé anormalement longtemps
+2025-07-04,EN,4,positif,Must visit if you're in Casablanca. The fries are incredible too.,TripAdvisor,11,2025-07,Jul 2025,must visit fries incredible
+2025-09-14,FR,3,mitigé,"Premier burger excellent, mais le second était un peu trop cuit.",Google Maps,11,2025-09,Sep 2025,premier excellent second cuit
+2025-07-18,FR,1,négatif,"Franchement, service au bord de l'impolitesse, le staff semblait peu motivé.",Google Maps,11,2025-07,Jul 2025,franchement service bord l'impolitesse staff semblait motivé
+2025-02-06,EN,2,négatif,Waited over 45 minutes on a weekday. Staff seemed overwhelmed and disorganized.,TripAdvisor,12,2025-02,Feb 2025,waited minutes weekday staff seemed overwhelmed disorganized
+2025-09-26,AR,5,positif,أفضل تجربة برغر في المغرب، اللحم طازج والمكونات عالية الجودة.,Google Maps,10,2025-09,Sep 2025,أفضل تجربة برغر المغرب اللحم طازج والمكونات عالية الجودة
+2025-08-28,FR,5,positif,"Tables bien espacées, on peut discuter tranquillement.",Google Maps,7,2025-08,Aug 2025,tables espacées peut discuter tranquillement
+2025-09-01,FR,4,positif,"Franchement, personnel adorable, cadre soigné, on se croirait à Manhattan.",Google Maps,10,2025-09,Sep 2025,franchement personnel adorable cadre soigné croirait manhattan
+2025-10-29,FR,5,positif,"Vraiment, la viande est d'une qualité remarquable, on le sent au premier goût.",Google Maps,13,2025-10,Oct 2025,viande d'une qualité remarquable sent premier goût
+2025-10-21,EN,2,négatif,Burger was dry and overcooked despite asking for medium. Disappointing.,Google Maps,10,2025-10,Oct 2025,dry overcooked despite asking medium disappointing
+2025-12-29,EN,4,positif,"Best burger I've had in Morocco, hands down. Juicy, fresh, amazing.",Google Maps,11,2025-12,Dec 2025,best morocco hands juicy fresh amazing
+2026-02-15,FR,4,positif,"Ingrédients frais, burger bien assemblé, service souriant.",Google Maps,7,2026-02,Feb 2026,ingrédients frais assemblé service souriant
+2025-10-24,FR,5,positif,"Franchement, la carte change selon les saisons, c'est une bonne idée.",Google Maps,11,2025-10,Oct 2025,franchement carte change selon saisons bonne idée
+2025-03-12,FR,5,positif,"La carte change selon les saisons, c'est une bonne idée.",Google Maps,10,2025-03,Mar 2025,carte change selon saisons bonne idée
+2025-01-24,EN,2,négatif,Waited over 45 minutes on a weekday. Staff seemed overwhelmed and disorganized.,TripAdvisor,12,2025-01,Jan 2025,waited minutes weekday staff seemed overwhelmed disorganized
+2025-12-26,FR,2,négatif,"En résumé, la viande était trop cuite alors que j'avais demandé saignant explicitement.",TripAdvisor,13,2025-12,Dec 2025,résumé viande cuite alors j'avais demandé saignant explicitement
+2025-03-11,FR,3,mitigé,Livraison acceptable mais le burger était tiède à la réception.,TripAdvisor,10,2025-03,Mar 2025,livraison acceptable tiède réception
+2025-05-29,EN,2,négatif,Waited over 45 minutes on a weekday. Staff seemed overwhelmed and disorganized.,TripAdvisor,12,2025-05,May 2025,waited minutes weekday staff seemed overwhelmed disorganized
+2025-06-02,FR,5,positif,Meilleur rapport qualité-originalité de toute la ville.,TripAdvisor,7,2025-06,Jun 2025,meilleur rapport qualité-originalité toute ville
+2025-07-08,FR,1,négatif,"Service au bord de l'impolitesse, le staff semblait peu motivé.",Google Maps,10,2025-07,Jul 2025,service bord l'impolitesse staff semblait motivé
+2026-03-30,FR,4,positif,"Ambiance New-York au cœur de Casa, j'adore l'endroit.",Google Maps,8,2026-03,Mar 2026,ambiance new-york cœur j'adore l'endroit
+2025-04-15,FR,3,mitigé,"Le pain était légèrement sec, dommage car le reste était très bon.",TripAdvisor,12,2025-04,Apr 2025,pain légèrement sec dommage reste bon
+2025-05-23,FR,5,positif,"Ambiance New-York au cœur de Casa, j'adore l'endroit.",TripAdvisor,8,2025-05,May 2025,ambiance new-york cœur j'adore l'endroit
+2025-07-19,FR,5,positif,"Vraiment, le Béarnaise burger est une merveille, cuisson parfaite.",TripAdvisor,9,2025-07,Jul 2025,béarnaise merveille cuisson parfaite
+2025-03-23,FR,5,positif,"Absolument incroyable, le meilleur burger de Casablanca sans aucun doute.",Google Maps,10,2025-03,Mar 2025,absolument incroyable meilleur sans aucun doute
+2025-04-20,FR,5,positif,Endroit parfait pour un repas entre amis ou en famille.,Google Maps,10,2025-04,Apr 2025,parfait repas entre amis famille
+2025-11-15,FR,3,mitigé,"En résumé, très bonne qualité mais les prix sont un peu élevés pour Casablanca.",TripAdvisor,14,2025-11,Nov 2025,résumé bonne qualité prix élevés
+2025-09-12,EN,2,négatif,Overpriced for what it is. The hype is really not justified.,Google Maps,11,2025-09,Sep 2025,overpriced hype justified
+2025-04-26,FR,4,mitigé,J'aime l'endroit mais la musique était beaucoup trop forte ce soir-là.,TripAdvisor,11,2025-04,Apr 2025,j'aime l'endroit musique forte soir-là
+2025-05-31,FR,3,mitigé,"Vraiment, burger délicieux mais l'attente de 40 minutes était vraiment longue.",TripAdvisor,11,2025-05,May 2025,délicieux l'attente minutes longue
+2025-12-26,EN,5,positif,"Fresh ingredients, creative menu, and reasonable prices for the quality.",TripAdvisor,10,2025-12,Dec 2025,fresh ingredients creative menu reasonable prices quality
+2025-05-20,FR,2,négatif,"Allergie grave après le burger, fromage potentiellement périmé. Scandaleux.",Google Maps,9,2025-05,May 2025,allergie grave après fromage potentiellement périmé scandaleux
+2025-06-26,FR,5,positif,très belle carte avec plein de choix pour tous les goûts.,Google Maps,11,2025-06,Jun 2025,belle carte plein choix tous goûts
+2026-01-02,FR,5,positif,"Les burgers sont juteux et savoureux, on reviendra sans hésiter.",Google Maps,10,2026-01,Jan 2026,juteux savoureux reviendra sans hésiter
+2025-05-05,AR,5,positif,برغر ممتاز، الجو رائع والفريق محترف جداً.,TripAdvisor,7,2025-05,May 2025,برغر ممتاز الجو رائع والفريق محترف جدا
+2025-03-08,FR,5,positif,"Absolument incroyable, le meilleur burger de Casablanca sans aucun doute.",Google Maps,10,2025-03,Mar 2025,absolument incroyable meilleur sans aucun doute
+2025-02-17,FR,3,mitigé,pas mal du tout mais le bruit ambiant rend la conversation difficile.,TripAdvisor,12,2025-02,Feb 2025,mal bruit ambiant rend conversation difficile
+2025-03-08,EN,2,négatif,"Found plastic in the coleslaw, staff just apologized and offered dessert. Not ok.",TripAdvisor,13,2025-03,Mar 2025,found plastic coleslaw staff apologized offered dessert
+2025-10-10,FR,5,positif,très belle carte avec plein de choix pour tous les goûts.,Google Maps,11,2025-10,Oct 2025,belle carte plein choix tous goûts
+2026-02-18,FR,5,positif,le smoothie mangue accompagne parfaitement le burger épicé.,Google Maps,8,2026-02,Feb 2026,smoothie mangue accompagne parfaitement épicé
+2025-10-26,FR,4,mitigé,L'expérience était bien mais le dessert a tardé anormalement longtemps.,TripAdvisor,10,2025-10,Oct 2025,l'expérience dessert tardé anormalement longtemps
+2026-01-16,FR,5,positif,"Vraiment, la New York Cheesecake en dessert vaut le détour à elle seule.",Google Maps,13,2026-01,Jan 2026,new york cheesecake dessert vaut détour seule
+2025-03-31,FR,3,mitigé,Très bonne qualité mais les prix sont un peu élevés pour Casablanca.,Google Maps,12,2025-03,Mar 2025,bonne qualité prix élevés
+2025-06-19,FR,4,positif,"Ambiance New-York au cœur de Casa, j'adore l'endroit.",Google Maps,8,2025-06,Jun 2025,ambiance new-york cœur j'adore l'endroit
+2025-05-10,EN,4,positif,"Best burger I've had in Morocco, hands down. Juicy, fresh, amazing.",Google Maps,11,2025-05,May 2025,best morocco hands juicy fresh amazing
+2025-04-18,FR,5,positif,"Service rapide, personnel très accueillant, qualité exceptionnelle.",Google Maps,7,2025-04,Apr 2025,service rapide personnel accueillant qualité exceptionnelle
+2025-09-19,FR,5,positif,"Cadre moderne et tendance, on s'y sent bien tout de suite.",TripAdvisor,11,2025-09,Sep 2025,cadre moderne tendance s'y sent suite
+2026-01-06,EN,4,positif,Absolutely blown away by the quality. Will definitely come back.,Google Maps,10,2026-01,Jan 2026,absolutely blown away quality definitely come back
+2026-01-05,FR,2,négatif,Qualité en baisse par rapport à mes visites précédentes il y a un an.,TripAdvisor,14,2026-01,Jan 2026,qualité baisse rapport visites précédentes
+2025-05-16,FR,3,mitigé,Burger satisfaisant mais les frites étaient trop salées à mon goût.,Google Maps,11,2025-05,May 2025,satisfaisant frites salées goût
+2025-05-26,EN,2,négatif,Overpriced for what it is. The hype is really not justified.,Google Maps,11,2025-05,May 2025,overpriced hype justified
+2025-06-24,EN,4,positif,"Great vibe, great food, great service. What more could you ask for?",TripAdvisor,12,2025-06,Jun 2025,vibe food service could ask
+2025-05-09,FR,5,positif,Très belle carte avec plein de choix pour tous les goûts.,Google Maps,11,2025-05,May 2025,belle carte plein choix tous goûts
+2026-01-19,FR,5,positif,"Burger parfaitement équilibré, bun moelleux, steak haché épais.",TripAdvisor,8,2026-01,Jan 2026,parfaitement équilibré bun moelleux steak haché épais
+2025-05-29,EN,2,négatif,Burger was dry and overcooked despite asking for medium. Disappointing.,TripAdvisor,10,2025-05,May 2025,dry overcooked despite asking medium disappointing
+2025-05-19,FR,5,positif,"accueil chaleureux dès l'entrée, l'équipe est vraiment sympa.",Google Maps,8,2025-05,May 2025,accueil chaleureux dès l'entrée l'équipe sympa
+2025-03-09,FR,5,positif,"cadre moderne et tendance, on s'y sent bien tout de suite.",Google Maps,11,2025-03,Mar 2025,cadre moderne tendance s'y sent suite
+2025-10-20,FR,4,mitigé,menu bien mais les options végétaliennes restent très limitées.,TripAdvisor,9,2025-10,Oct 2025,menu options végétaliennes restent limitées
+2025-07-03,FR,5,positif,Les milk-shakes sont divins et les frites croustillantes à souhait.,TripAdvisor,10,2025-07,Jul 2025,milk-shakes divins frites croustillantes souhait
+2025-10-13,FR,4,positif,"Commande livrée rapidement et chaude, conditionnement soigné.",TripAdvisor,7,2025-10,Oct 2025,commande livrée rapidement chaude conditionnement soigné
+2026-01-04,FR,4,positif,"Super burger halal, la qualité est au rendez-vous.",TripAdvisor,8,2026-01,Jan 2026,super halal qualité rendez-vous
+2025-10-12,FR,2,négatif,"Ambiance bruyante et tables trop serrées, on ne s'entend pas parler.",TripAdvisor,11,2025-10,Oct 2025,ambiance bruyante tables serrées s'entend parler
+2026-03-31,FR,1,négatif,"Burger froid à l'arrivée, service complètement désorganisé un vendredi soir.",TripAdvisor,10,2026-03,Mar 2026,froid l'arrivée service complètement désorganisé vendredi soir
+2025-05-16,FR,3,mitigé,"Bonne nourriture dans l'ensemble, mais la commande était incorrecte au début.",TripAdvisor,11,2025-05,May 2025,bonne nourriture l'ensemble commande incorrecte début
+2025-10-28,FR,1,négatif,"Franchement, burger froid à l'arrivée, service complètement désorganisé un vendredi soir.",TripAdvisor,11,2025-10,Oct 2025,franchement froid l'arrivée service complètement désorganisé vendredi soir
+2025-07-16,FR,4,positif,"Les onion rings croustillants et bien assaisonnés, bravo.",Google Maps,8,2025-07,Jul 2025,onion rings croustillants assaisonnés bravo
+2025-12-18,FR,2,négatif,"Ambiance bruyante et tables trop serrées, on ne s'entend pas parler.",Google Maps,11,2025-12,Dec 2025,ambiance bruyante tables serrées s'entend parler
+2026-03-13,FR,5,positif,Le smoothie mangue accompagne parfaitement le burger épicé.,Google Maps,8,2026-03,Mar 2026,smoothie mangue accompagne parfaitement épicé
+2025-12-23,EN,5,positif,"The Béarnaise burger blew my mind, perfectly cooked medium rare.",TripAdvisor,10,2025-12,Dec 2025,béarnaise blew mind perfectly cooked medium rare
+2025-12-22,FR,3,mitigé,Le burger était excellent mais le service du soir était beaucoup plus lent.,TripAdvisor,13,2025-12,Dec 2025,excellent service soir lent
+2025-10-01,FR,4,positif,La New York Cheesecake en dessert vaut le détour à elle seule.,TripAdvisor,12,2025-10,Oct 2025,new york cheesecake dessert vaut détour seule
+2025-12-12,FR,3,mitigé,"Franchement, qualité des burgers top mais l'accueil du staff a semblé froid ce jour.",TripAdvisor,14,2025-12,Dec 2025,franchement qualité top l'accueil staff semblé froid jour
+2025-01-27,EN,5,positif,The staff was super helpful recommending dishes. All excellent.,Google Maps,9,2025-01,Jan 2025,staff super helpful recommending dishes excellent
+2026-03-08,FR,5,positif,"La viande est d'une qualité remarquable, on le sent au premier goût.",TripAdvisor,12,2026-03,Mar 2026,viande d'une qualité remarquable sent premier goût
+2025-11-07,EN,5,positif,"Fresh ingredients, creative menu, and reasonable prices for the quality.",Google Maps,10,2025-11,Nov 2025,fresh ingredients creative menu reasonable prices quality
+2025-08-05,FR,5,positif,"Le Double Cheesy est une tuerie absolue, portions généreuses.",Google Maps,9,2025-08,Aug 2025,double cheesy tuerie absolue portions généreuses
+2025-05-30,EN,4,positif,The staff was super helpful recommending dishes. All excellent.,Google Maps,9,2025-05,May 2025,staff super helpful recommending dishes excellent
+2025-06-10,FR,2,négatif,"Service au bord de l'impolitesse, le staff semblait peu motivé.",Google Maps,10,2025-06,Jun 2025,service bord l'impolitesse staff semblait motivé
+2026-03-02,AR,5,positif,خدمة ممتازة والبرغر لذيذ جداً، أنصح بزيارة هذا المطعم.,TripAdvisor,9,2026-03,Mar 2026,خدمة ممتازة والبرغر لذيذ جدا أنصح بزيارة هذا المطعم
+2026-03-03,FR,1,négatif,Qualité en baisse par rapport à mes visites précédentes il y a un an.,Google Maps,14,2026-03,Mar 2026,qualité baisse rapport visites précédentes
+2025-08-29,EN,5,positif,"The Béarnaise burger blew my mind, perfectly cooked medium rare.",TripAdvisor,10,2025-08,Aug 2025,béarnaise blew mind perfectly cooked medium rare
+2025-01-22,EN,5,positif,Burger was cooked to perfection and the onion rings were fantastic.,TripAdvisor,11,2025-01,Jan 2025,cooked perfection onion rings fantastic
+2026-02-21,FR,3,mitigé,menu bien mais les options végétaliennes restent très limitées.,TripAdvisor,9,2026-02,Feb 2026,menu options végétaliennes restent limitées
+2025-10-29,AR,2,négatif,طلبنا طلبين وجاء كلاهما خاطئين، إدارة سيئة.,TripAdvisor,7,2025-10,Oct 2025,طلبنا طلبين وجاء كلاهما خاطئين إدارة سيئة
+2025-06-06,FR,3,mitigé,"le pain était légèrement sec, dommage car le reste était très bon.",Google Maps,12,2025-06,Jun 2025,pain légèrement sec dommage reste bon
+2025-07-08,FR,2,négatif,"Ambiance bruyante et tables trop serrées, on ne s'entend pas parler.",TripAdvisor,11,2025-07,Jul 2025,ambiance bruyante tables serrées s'entend parler
+2025-06-26,FR,4,mitigé,pas mal du tout mais le bruit ambiant rend la conversation difficile.,Google Maps,12,2025-06,Jun 2025,mal bruit ambiant rend conversation difficile
+2025-07-26,FR,3,mitigé,Le burger était excellent mais le service du soir était beaucoup plus lent.,TripAdvisor,13,2025-07,Jul 2025,excellent service soir lent
+2026-02-12,EN,5,positif,"The Béarnaise burger blew my mind, perfectly cooked medium rare.",Google Maps,10,2026-02,Feb 2026,béarnaise blew mind perfectly cooked medium rare
+2025-04-19,FR,5,positif,"En résumé, endroit parfait pour un repas entre amis ou en famille.",Google Maps,12,2025-04,Apr 2025,résumé parfait repas entre amis famille
+2026-01-28,EN,5,positif,Absolutely blown away by the quality. Will definitely come back.,TripAdvisor,10,2026-01,Jan 2026,absolutely blown away quality definitely come back
+2025-10-07,FR,5,positif,"Franchement, absolument incroyable, le meilleur burger de Casablanca sans aucun doute.",TripAdvisor,11,2025-10,Oct 2025,franchement absolument incroyable meilleur sans aucun doute
+2025-10-05,FR,3,mitigé,Burger délicieux mais l'attente de 40 minutes était vraiment longue.,Google Maps,10,2025-10,Oct 2025,délicieux l'attente minutes longue
+2026-02-17,FR,5,positif,"Vraiment, le Béarnaise burger est une merveille, cuisson parfaite.",TripAdvisor,9,2026-02,Feb 2026,béarnaise merveille cuisson parfaite
+2025-05-12,FR,4,mitigé,Qualité des burgers top mais l'accueil du staff a semblé froid ce jour.,Google Maps,13,2025-05,May 2025,qualité top l'accueil staff semblé froid jour
+2025-08-15,FR,4,positif,"Cadre moderne et tendance, on s'y sent bien tout de suite.",Google Maps,11,2025-08,Aug 2025,cadre moderne tendance s'y sent suite
+2025-08-28,FR,4,mitigé,Burgers corrects mais on est loin des éloges qu'on lit sur internet.,Google Maps,12,2025-08,Aug 2025,corrects loin éloges qu'on lit internet
+2025-09-01,FR,4,positif,"Le Double Cheesy est une tuerie absolue, portions généreuses.",Google Maps,9,2025-09,Sep 2025,double cheesy tuerie absolue portions généreuses
+2025-03-20,FR,5,positif,La Béarnaise sauce maison est vraiment exceptionnelle.,TripAdvisor,7,2025-03,Mar 2025,béarnaise sauce maison exceptionnelle
+2025-09-30,FR,5,positif,"Ambiance New-York au cœur de Casa, j'adore l'endroit.",TripAdvisor,8,2025-09,Sep 2025,ambiance new-york cœur j'adore l'endroit
+2025-01-08,FR,1,négatif,"Prix exorbitants pour des portions de plus en plus petites, déception totale.",TripAdvisor,12,2025-01,Jan 2025,prix exorbitants portions petites déception totale
+2025-09-09,EN,5,positif,"The milkshakes here are unbelievably good, try the caramelized one.",Google Maps,10,2025-09,Sep 2025,milkshakes unbelievably try caramelized one
+2025-02-17,FR,2,négatif,"Vraiment, prix exorbitants pour des portions de plus en plus petites, déception totale.",Google Maps,13,2025-02,Feb 2025,prix exorbitants portions petites déception totale
+2025-11-25,FR,1,négatif,"Franchement, les toilettes n'étaient pas propres, ça fait mauvaise impression.",Google Maps,10,2025-11,Nov 2025,franchement toilettes n'étaient propres mauvaise impression
+2025-04-12,EN,5,positif,"The milkshakes here are unbelievably good, try the caramelized one.",TripAdvisor,10,2025-04,Apr 2025,milkshakes unbelievably try caramelized one
+2025-07-14,EN,5,positif,"This place is a hidden gem in Casablanca, very New York feel.",TripAdvisor,12,2025-07,Jul 2025,hidden gem new york feel
+2026-03-12,EN,5,positif,"Great vibe, great food, great service. What more could you ask for?",TripAdvisor,12,2026-03,Mar 2026,vibe food service could ask
+2025-01-30,FR,5,positif,"Le Béarnaise burger est une merveille, cuisson parfaite.",TripAdvisor,8,2025-01,Jan 2025,béarnaise merveille cuisson parfaite
+2026-01-20,FR,4,positif,"Vraiment, accueil chaleureux dès l'entrée, l'équipe est vraiment sympa.",TripAdvisor,9,2026-01,Jan 2026,accueil chaleureux dès l'entrée l'équipe sympa
+2025-08-31,EN,5,positif,"Amazing atmosphere, friendly staff, and the burgers are top notch.",Google Maps,10,2025-08,Aug 2025,amazing atmosphere friendly staff top notch
+2026-01-26,FR,5,positif,"Franchement, la poutine est addictive, les sauces maison font toute la différence.",TripAdvisor,12,2026-01,Jan 2026,franchement poutine addictive sauces maison font toute différence
+2025-08-09,FR,1,négatif,"Les toilettes n'étaient pas propres, ça fait mauvaise impression.",TripAdvisor,9,2025-08,Aug 2025,toilettes n'étaient propres mauvaise impression
+2025-12-02,FR,3,mitigé,J'aime l'endroit mais la musique était beaucoup trop forte ce soir-là.,Google Maps,11,2025-12,Dec 2025,j'aime l'endroit musique forte soir-là
+2025-11-13,FR,5,positif,Le Rossini burger au foie gras est une expérience gastronomique.,TripAdvisor,10,2025-11,Nov 2025,rossini foie gras expérience gastronomique
+2025-05-18,EN,5,positif,"Fresh ingredients, creative menu, and reasonable prices for the quality.",TripAdvisor,10,2025-05,May 2025,fresh ingredients creative menu reasonable prices quality
+2025-04-18,FR,4,positif,"Absolument incroyable, le meilleur burger de Casablanca sans aucun doute.",Google Maps,10,2025-04,Apr 2025,absolument incroyable meilleur sans aucun doute
+2026-02-12,FR,5,positif,"Service rapide, personnel très accueillant, qualité exceptionnelle.",Google Maps,7,2026-02,Feb 2026,service rapide personnel accueillant qualité exceptionnelle
+2025-12-20,EN,5,positif,Must visit if you're in Casablanca. The fries are incredible too.,Google Maps,11,2025-12,Dec 2025,must visit fries incredible
+2025-07-14,FR,3,mitigé,L'expérience était bien mais le dessert a tardé anormalement longtemps.,Google Maps,10,2025-07,Jul 2025,l'expérience dessert tardé anormalement longtemps
+2025-02-17,EN,5,positif,"Best burger I've had in Morocco, hands down. Juicy, fresh, amazing.",TripAdvisor,11,2025-02,Feb 2025,best morocco hands juicy fresh amazing
+2025-04-03,FR,3,mitigé,"Le pain était légèrement sec, dommage car le reste était très bon.",Google Maps,12,2025-04,Apr 2025,pain légèrement sec dommage reste bon
+2026-03-22,FR,3,mitigé,"Le pain était légèrement sec, dommage car le reste était très bon.",TripAdvisor,12,2026-03,Mar 2026,pain légèrement sec dommage reste bon
+2025-08-12,EN,5,positif,"Great vibe, great food, great service. What more could you ask for?",TripAdvisor,12,2025-08,Aug 2025,vibe food service could ask
+2025-11-23,EN,4,positif,"Amazing atmosphere, friendly staff, and the burgers are top notch.",TripAdvisor,10,2025-11,Nov 2025,amazing atmosphere friendly staff top notch
+2025-04-02,FR,5,positif,"En résumé, les burgers sont juteux et savoureux, on reviendra sans hésiter.",Google Maps,12,2025-04,Apr 2025,résumé juteux savoureux reviendra sans hésiter
+2025-09-17,FR,5,positif,"Ambiance New-York au cœur de Casa, j'adore l'endroit.",TripAdvisor,8,2025-09,Sep 2025,ambiance new-york cœur j'adore l'endroit
+2025-08-17,FR,3,mitigé,Menu bien mais les options végétaliennes restent très limitées.,Google Maps,9,2025-08,Aug 2025,menu options végétaliennes restent limitées
+2026-01-15,FR,4,positif,"Vraiment une bonne surprise, meilleur que ce à quoi je m'attendais.",Google Maps,11,2026-01,Jan 2026,bonne surprise meilleur quoi m'attendais
+2025-05-07,EN,5,positif,"Best burger I've had in Morocco, hands down. Juicy, fresh, amazing.",TripAdvisor,11,2025-05,May 2025,best morocco hands juicy fresh amazing
+2025-06-17,FR,4,mitigé,"En résumé, j'aime l'endroit mais la musique était beaucoup trop forte ce soir-là.",Google Maps,13,2025-06,Jun 2025,résumé j'aime l'endroit musique forte soir-là
+2025-02-05,FR,4,positif,"Les onion rings croustillants et bien assaisonnés, bravo.",Google Maps,8,2025-02,Feb 2025,onion rings croustillants assaisonnés bravo
+2025-04-08,FR,1,négatif,"En résumé, ambiance bruyante et tables trop serrées, on ne s'entend pas parler.",Google Maps,13,2025-04,Apr 2025,résumé ambiance bruyante tables serrées s'entend parler
+2025-10-16,FR,5,positif,"Absolument incroyable, le meilleur burger de Casablanca sans aucun doute.",Google Maps,10,2025-10,Oct 2025,absolument incroyable meilleur sans aucun doute
+2026-03-17,FR,5,positif,Les milk-shakes sont divins et les frites croustillantes à souhait.,TripAdvisor,10,2026-03,Mar 2026,milk-shakes divins frites croustillantes souhait
+2025-10-09,FR,5,positif,La New York Cheesecake en dessert vaut le détour à elle seule.,TripAdvisor,12,2025-10,Oct 2025,new york cheesecake dessert vaut détour seule
+2025-11-15,EN,5,positif,"Best burger I've had in Morocco, hands down. Juicy, fresh, amazing.",TripAdvisor,11,2025-11,Nov 2025,best morocco hands juicy fresh amazing
+2025-02-11,FR,4,positif,"Cadre moderne et tendance, on s'y sent bien tout de suite.",TripAdvisor,11,2025-02,Feb 2025,cadre moderne tendance s'y sent suite
+2026-01-20,FR,5,positif,"On a testé cinq burgers différents, tous excellents sans exception.",Google Maps,10,2026-01,Jan 2026,testé cinq différents tous excellents sans exception
+2026-03-01,EN,5,positif,"This place is a hidden gem in Casablanca, very New York feel.",Google Maps,12,2026-03,Mar 2026,hidden gem new york feel
+2026-02-26,FR,1,négatif,La viande était trop cuite alors que j'avais demandé saignant explicitement.,Google Maps,11,2026-02,Feb 2026,viande cuite alors j'avais demandé saignant explicitement
+2025-06-05,FR,1,négatif,"Vraiment, service au bord de l'impolitesse, le staff semblait peu motivé.",Google Maps,11,2025-06,Jun 2025,service bord l'impolitesse staff semblait motivé
+2025-04-19,EN,2,négatif,Waited over 45 minutes on a weekday. Staff seemed overwhelmed and disorganized.,TripAdvisor,12,2025-04,Apr 2025,waited minutes weekday staff seemed overwhelmed disorganized
+2025-07-19,FR,4,positif,"burger parfaitement équilibré, bun moelleux, steak haché épais.",Google Maps,8,2025-07,Jul 2025,parfaitement équilibré bun moelleux steak haché épais
+2025-04-22,EN,5,positif,"Fresh ingredients, creative menu, and reasonable prices for the quality.",Google Maps,10,2025-04,Apr 2025,fresh ingredients creative menu reasonable prices quality
+2025-08-07,FR,1,négatif,"Livraison avec une heure de retard, burger complètement froid et détrempé.",Google Maps,11,2025-08,Aug 2025,livraison heure retard complètement froid détrempé
+2026-02-05,FR,5,positif,"En résumé, burger parfaitement équilibré, bun moelleux, steak haché épais.",Google Maps,10,2026-02,Feb 2026,résumé parfaitement équilibré bun moelleux steak haché épais
+2026-02-03,FR,1,négatif,"Prix exorbitants pour des portions de plus en plus petites, déception totale.",TripAdvisor,12,2026-02,Feb 2026,prix exorbitants portions petites déception totale
+2025-09-29,EN,4,positif,The staff was super helpful recommending dishes. All excellent.,TripAdvisor,9,2025-09,Sep 2025,staff super helpful recommending dishes excellent
+2026-01-17,AR,4,positif,البيئة جميلة والطاقم ودود، تجربة رائعة للعائلة.,TripAdvisor,7,2026-01,Jan 2026,البيئة جميلة والطاقم ودود تجربة رائعة للعائلة
+2025-06-24,EN,5,positif,Absolutely blown away by the quality. Will definitely come back.,TripAdvisor,10,2025-06,Jun 2025,absolutely blown away quality definitely come back
+2025-01-18,FR,4,mitigé,Bon repas globalement mais la terrasse manque vraiment d'ombre en été.,Google Maps,11,2025-01,Jan 2025,bon repas globalement terrasse manque d'ombre
+2025-01-06,EN,5,positif,The staff was super helpful recommending dishes. All excellent.,Google Maps,9,2025-01,Jan 2025,staff super helpful recommending dishes excellent
+2025-01-09,FR,1,négatif,Mauvaise expérience : plastique trouvé dans la salade coleslaw.,TripAdvisor,9,2025-01,Jan 2025,mauvaise expérience plastique trouvé salade coleslaw
+2025-11-01,FR,3,mitigé,"En résumé, très bonne qualité mais les prix sont un peu élevés pour Casablanca.",Google Maps,14,2025-11,Nov 2025,résumé bonne qualité prix élevés
+2025-01-19,FR,3,mitigé,Menu bien mais les options végétaliennes restent très limitées.,Google Maps,9,2025-01,Jan 2025,menu options végétaliennes restent limitées
+2025-05-20,FR,4,positif,"La viande est d'une qualité remarquable, on le sent au premier goût.",Google Maps,12,2025-05,May 2025,viande d'une qualité remarquable sent premier goût
+2025-08-05,FR,5,positif,"Commande livrée rapidement et chaude, conditionnement soigné.",Google Maps,7,2025-08,Aug 2025,commande livrée rapidement chaude conditionnement soigné
+2025-12-27,FR,5,positif,"Option végétarienne délicieuse, même les carnivores se régalent.",TripAdvisor,8,2025-12,Dec 2025,option végétarienne délicieuse carnivores régalent
+2026-01-02,FR,3,mitigé,J'aime l'endroit mais la musique était beaucoup trop forte ce soir-là.,TripAdvisor,11,2026-01,Jan 2026,j'aime l'endroit musique forte soir-là
+2026-03-03,EN,4,positif,"The Béarnaise burger blew my mind, perfectly cooked medium rare.",TripAdvisor,10,2026-03,Mar 2026,béarnaise blew mind perfectly cooked medium rare
+2025-04-23,FR,4,positif,Meilleur rapport qualité-originalité de toute la ville.,TripAdvisor,7,2025-04,Apr 2025,meilleur rapport qualité-originalité toute ville
+2025-09-08,EN,5,positif,"One of the best burgers I've had anywhere in the world, seriously.",Google Maps,12,2025-09,Sep 2025,one best anywhere world seriously
+2025-03-02,FR,3,mitigé,Le burger était excellent mais le service du soir était beaucoup plus lent.,Google Maps,13,2025-03,Mar 2025,excellent service soir lent
+2025-06-20,FR,3,mitigé,Menu bien mais les options végétaliennes restent très limitées.,TripAdvisor,9,2025-06,Jun 2025,menu options végétaliennes restent limitées
+2025-10-08,FR,4,positif,Le staff connaît bien le menu et donne de bons conseils.,Google Maps,11,2025-10,Oct 2025,staff connaît menu donne bons conseils
+2025-03-21,FR,2,négatif,"Prix exorbitants pour des portions de plus en plus petites, déception totale.",TripAdvisor,12,2025-03,Mar 2025,prix exorbitants portions petites déception totale
+2026-03-18,EN,2,négatif,Overpriced for what it is. The hype is really not justified.,TripAdvisor,11,2026-03,Mar 2026,overpriced hype justified
+2025-09-07,EN,2,négatif,No gluten-free bun available even though it's on the menu. Very misleading.,Google Maps,12,2025-09,Sep 2025,gluten-free bun available even though menu misleading
+2025-06-16,EN,2,négatif,Overpriced for what it is. The hype is really not justified.,TripAdvisor,11,2025-06,Jun 2025,overpriced hype justified
+2025-08-11,EN,5,positif,"Amazing atmosphere, friendly staff, and the burgers are top notch.",TripAdvisor,10,2025-08,Aug 2025,amazing atmosphere friendly staff top notch
+2025-08-28,FR,3,mitigé,Bon repas globalement mais la terrasse manque vraiment d'ombre en été.,Google Maps,11,2025-08,Aug 2025,bon repas globalement terrasse manque d'ombre
+2025-12-06,FR,3,mitigé,"Premier burger excellent, mais le second était un peu trop cuit.",TripAdvisor,11,2025-12,Dec 2025,premier excellent second cuit
+2026-03-02,EN,5,positif,"The milkshakes here are unbelievably good, try the caramelized one.",Google Maps,10,2026-03,Mar 2026,milkshakes unbelievably try caramelized one
+2025-01-24,EN,4,positif,Absolutely blown away by the quality. Will definitely come back.,Google Maps,10,2025-01,Jan 2025,absolutely blown away quality definitely come back
+2025-02-28,FR,2,négatif,"Burger froid à l'arrivée, service complètement désorganisé un vendredi soir.",TripAdvisor,10,2025-02,Feb 2025,froid l'arrivée service complètement désorganisé vendredi soir
+2025-04-22,FR,5,positif,"Vraiment, le staff connaît bien le menu et donne de bons conseils.",TripAdvisor,12,2025-04,Apr 2025,staff connaît menu donne bons conseils
+2025-11-01,FR,4,positif,"Commande livrée rapidement et chaude, conditionnement soigné.",TripAdvisor,7,2025-11,Nov 2025,commande livrée rapidement chaude conditionnement soigné
+2025-05-25,FR,3,mitigé,"Vraiment, livraison acceptable mais le burger était tiède à la réception.",Google Maps,11,2025-05,May 2025,livraison acceptable tiède réception
+2025-12-28,FR,3,mitigé,sympa pour une fois mais le rapport qualité-prix reste discutable.,Google Maps,10,2025-12,Dec 2025,sympa rapport qualité-prix reste discutable
+2025-08-30,FR,1,négatif,"Franchement, ambiance bruyante et tables trop serrées, on ne s'entend pas parler.",TripAdvisor,12,2025-08,Aug 2025,franchement ambiance bruyante tables serrées s'entend parler
+2025-05-03,FR,4,positif,"Commande livrée rapidement et chaude, conditionnement soigné.",TripAdvisor,7,2025-05,May 2025,commande livrée rapidement chaude conditionnement soigné
+2025-06-01,FR,4,mitigé,Menu bien mais les options végétaliennes restent très limitées.,Google Maps,9,2025-06,Jun 2025,menu options végétaliennes restent limitées
+2026-01-14,FR,3,mitigé,Très bonne qualité mais les prix sont un peu élevés pour Casablanca.,TripAdvisor,12,2026-01,Jan 2026,bonne qualité prix élevés
+2025-10-27,FR,1,négatif,La viande était trop cuite alors que j'avais demandé saignant explicitement.,Google Maps,11,2025-10,Oct 2025,viande cuite alors j'avais demandé saignant explicitement
+2025-06-02,FR,4,positif,"En résumé, le smoothie mangue accompagne parfaitement le burger épicé.",TripAdvisor,10,2025-06,Jun 2025,résumé smoothie mangue accompagne parfaitement épicé
+2026-01-03,FR,5,positif,"Franchement, endroit parfait pour un repas entre amis ou en famille.",TripAdvisor,11,2026-01,Jan 2026,franchement parfait repas entre amis famille
+2025-05-24,FR,1,négatif,Qualité en baisse par rapport à mes visites précédentes il y a un an.,TripAdvisor,14,2025-05,May 2025,qualité baisse rapport visites précédentes
+2026-01-26,FR,5,positif,Très belle carte avec plein de choix pour tous les goûts.,TripAdvisor,11,2026-01,Jan 2026,belle carte plein choix tous goûts
+2025-10-14,FR,5,positif,Meilleur rapport qualité-originalité de toute la ville.,TripAdvisor,7,2025-10,Oct 2025,meilleur rapport qualité-originalité toute ville
+2025-03-17,FR,1,négatif,Mauvaise expérience : plastique trouvé dans la salade coleslaw.,TripAdvisor,9,2025-03,Mar 2025,mauvaise expérience plastique trouvé salade coleslaw
+2025-04-26,FR,4,positif,"Accueil chaleureux dès l'entrée, l'équipe est vraiment sympa.",TripAdvisor,8,2025-04,Apr 2025,accueil chaleureux dès l'entrée l'équipe sympa
+2025-04-24,FR,1,négatif,"Trop cher pour ce que c'est, Smokey's à Casa propose bien mieux pour moins.",Google Maps,14,2025-04,Apr 2025,cher smokey's propose mieux
+2025-12-11,FR,3,mitigé,Burger délicieux mais l'attente de 40 minutes était vraiment longue.,TripAdvisor,10,2025-12,Dec 2025,délicieux l'attente minutes longue
+2025-12-06,FR,4,positif,"La carte change selon les saisons, c'est une bonne idée.",TripAdvisor,10,2025-12,Dec 2025,carte change selon saisons bonne idée
+2025-10-25,EN,5,positif,"This place is a hidden gem in Casablanca, very New York feel.",TripAdvisor,12,2025-10,Oct 2025,hidden gem new york feel
+2025-08-24,FR,4,mitigé,"Le pain était légèrement sec, dommage car le reste était très bon.",TripAdvisor,12,2025-08,Aug 2025,pain légèrement sec dommage reste bon
+2025-02-06,FR,5,positif,"Service rapide, personnel très accueillant, qualité exceptionnelle.",Google Maps,7,2025-02,Feb 2025,service rapide personnel accueillant qualité exceptionnelle
+2025-06-16,FR,2,négatif,"Ambiance bruyante et tables trop serrées, on ne s'entend pas parler.",TripAdvisor,11,2025-06,Jun 2025,ambiance bruyante tables serrées s'entend parler
+2025-04-15,FR,5,positif,"Cadre moderne et tendance, on s'y sent bien tout de suite.",Google Maps,11,2025-04,Apr 2025,cadre moderne tendance s'y sent suite
+2025-06-01,FR,4,mitigé,Bon repas globalement mais la terrasse manque vraiment d'ombre en été.,TripAdvisor,11,2025-06,Jun 2025,bon repas globalement terrasse manque d'ombre
+2026-02-14,FR,5,positif,"Accueil chaleureux dès l'entrée, l'équipe est vraiment sympa.",TripAdvisor,8,2026-02,Feb 2026,accueil chaleureux dès l'entrée l'équipe sympa
+2025-10-09,EN,4,positif,"The milkshakes here are unbelievably good, try the caramelized one.",TripAdvisor,10,2025-10,Oct 2025,milkshakes unbelievably try caramelized one
+2026-03-27,FR,5,positif,"Un must de Casablanca, à faire absolument si vous aimez les burgers.",TripAdvisor,12,2026-03,Mar 2026,must faire absolument aimez
+2025-12-05,EN,5,positif,"One of the best burgers I've had anywhere in the world, seriously.",TripAdvisor,12,2025-12,Dec 2025,one best anywhere world seriously
+2025-02-10,FR,5,positif,"La viande est d'une qualité remarquable, on le sent au premier goût.",TripAdvisor,12,2025-02,Feb 2025,viande d'une qualité remarquable sent premier goût
+2025-02-13,FR,5,positif,"Vraiment, accueil chaleureux dès l'entrée, l'équipe est vraiment sympa.",Google Maps,9,2025-02,Feb 2025,accueil chaleureux dès l'entrée l'équipe sympa
+2025-08-21,FR,5,positif,"Franchement, ingrédients frais, burger bien assemblé, service souriant.",TripAdvisor,8,2025-08,Aug 2025,franchement ingrédients frais assemblé service souriant
+2026-03-28,EN,5,positif,Absolutely blown away by the quality. Will definitely come back.,Google Maps,10,2026-03,Mar 2026,absolutely blown away quality definitely come back
+2025-11-30,EN,5,positif,Burger was cooked to perfection and the onion rings were fantastic.,TripAdvisor,11,2025-11,Nov 2025,cooked perfection onion rings fantastic
+2025-09-05,FR,3,mitigé,Qualité des burgers top mais l'accueil du staff a semblé froid ce jour.,Google Maps,13,2025-09,Sep 2025,qualité top l'accueil staff semblé froid jour
+2025-06-09,EN,5,positif,"Amazing atmosphere, friendly staff, and the burgers are top notch.",TripAdvisor,10,2025-06,Jun 2025,amazing atmosphere friendly staff top notch
+2025-06-18,FR,3,mitigé,Le burger était excellent mais le service du soir était beaucoup plus lent.,Google Maps,13,2025-06,Jun 2025,excellent service soir lent
+2025-08-10,FR,3,mitigé,"Vraiment, le pain était légèrement sec, dommage car le reste était très bon.",Google Maps,13,2025-08,Aug 2025,pain légèrement sec dommage reste bon
+2026-03-07,FR,4,positif,"La carte change selon les saisons, c'est une bonne idée.",Google Maps,10,2026-03,Mar 2026,carte change selon saisons bonne idée
+2025-11-30,FR,1,négatif,"Service au bord de l'impolitesse, le staff semblait peu motivé.",TripAdvisor,10,2025-11,Nov 2025,service bord l'impolitesse staff semblait motivé
+2026-03-24,FR,5,positif,Endroit parfait pour un repas entre amis ou en famille.,Google Maps,10,2026-03,Mar 2026,parfait repas entre amis famille
+2025-04-28,FR,4,mitigé,Bon repas globalement mais la terrasse manque vraiment d'ombre en été.,Google Maps,11,2025-04,Apr 2025,bon repas globalement terrasse manque d'ombre
+2025-01-01,FR,4,positif,"les onion rings croustillants et bien assaisonnés, bravo.",Google Maps,8,2025-01,Jan 2025,onion rings croustillants assaisonnés bravo
+2025-06-04,FR,1,négatif,"Les toilettes n'étaient pas propres, ça fait mauvaise impression.",Google Maps,9,2025-06,Jun 2025,toilettes n'étaient propres mauvaise impression
+2025-02-13,EN,5,positif,Must visit if you're in Casablanca. The fries are incredible too.,TripAdvisor,11,2025-02,Feb 2025,must visit fries incredible
+2025-02-28,EN,4,positif,"Great vibe, great food, great service. What more could you ask for?",TripAdvisor,12,2025-02,Feb 2025,vibe food service could ask
+2025-03-20,FR,4,positif,"La viande est d'une qualité remarquable, on le sent au premier goût.",Google Maps,12,2025-03,Mar 2025,viande d'une qualité remarquable sent premier goût
+2025-08-20,FR,5,positif,"Super burger halal, la qualité est au rendez-vous.",TripAdvisor,8,2025-08,Aug 2025,super halal qualité rendez-vous
+2025-07-24,FR,5,positif,"Franchement, la viande est d'une qualité remarquable, on le sent au premier goût.",TripAdvisor,13,2025-07,Jul 2025,franchement viande d'une qualité remarquable sent premier goût
+2026-02-16,FR,4,mitigé,"Premier burger excellent, mais le second était un peu trop cuit.",Google Maps,11,2026-02,Feb 2026,premier excellent second cuit
+2025-02-13,FR,3,mitigé,"En résumé, très bonne qualité mais les prix sont un peu élevés pour Casablanca.",Google Maps,14,2025-02,Feb 2025,résumé bonne qualité prix élevés
+2025-06-22,EN,5,positif,"The double cheesy is outstanding, crispy bun, fresh vegetables.",TripAdvisor,9,2025-06,Jun 2025,double cheesy outstanding crispy bun fresh vegetables
+2025-02-28,FR,5,positif,"Absolument incroyable, le meilleur burger de Casablanca sans aucun doute.",Google Maps,10,2025-02,Feb 2025,absolument incroyable meilleur sans aucun doute
+2025-02-15,AR,3,mitigé,جودة عالية لكن الأسعار مرتفعة نسبياً بالنسبة للمغرب.,TripAdvisor,8,2025-02,Feb 2025,جودة عالية لكن الأسعار مرتفعة نسبيا بالنسبة للمغرب
+2025-04-25,EN,5,positif,"The double cheesy is outstanding, crispy bun, fresh vegetables.",Google Maps,9,2025-04,Apr 2025,double cheesy outstanding crispy bun fresh vegetables
+2026-01-26,FR,3,mitigé,Bon mais sans plus. Le buzz autour de cet endroit est peut-être excessif.,Google Maps,13,2026-01,Jan 2026,bon sans buzz autour cet peut-être excessif
+2025-03-08,FR,1,négatif,"Franchement, attente de plus d'une heure un samedi soir, inacceptable pour un fast-food gourmet.",Google Maps,14,2025-03,Mar 2025,franchement attente d'une heure samedi soir inacceptable fast-food gourmet
+2025-08-18,FR,5,positif,"Vraiment une bonne surprise, meilleur que ce à quoi je m'attendais.",Google Maps,11,2025-08,Aug 2025,bonne surprise meilleur quoi m'attendais
+2026-03-13,FR,3,mitigé,"Premier burger excellent, mais le second était un peu trop cuit.",TripAdvisor,11,2026-03,Mar 2026,premier excellent second cuit
+2025-06-30,FR,2,négatif,"Aucun suivi de la commande, devoir rappeler trois fois le staff.",TripAdvisor,11,2025-06,Jun 2025,aucun suivi commande devoir rappeler trois staff
+2025-10-11,FR,4,positif,"La carte change selon les saisons, c'est une bonne idée.",TripAdvisor,10,2025-10,Oct 2025,carte change selon saisons bonne idée
+2025-09-09,FR,3,mitigé,Sympa pour une fois mais le rapport qualité-prix reste discutable.,Google Maps,10,2025-09,Sep 2025,sympa rapport qualité-prix reste discutable
+2025-08-16,FR,1,négatif,"Livraison avec une heure de retard, burger complètement froid et détrempé.",TripAdvisor,11,2025-08,Aug 2025,livraison heure retard complètement froid détrempé
+2025-08-29,FR,3,mitigé,"Le pain était légèrement sec, dommage car le reste était très bon.",TripAdvisor,12,2025-08,Aug 2025,pain légèrement sec dommage reste bon
+2025-08-26,EN,5,positif,Burger was cooked to perfection and the onion rings were fantastic.,Google Maps,11,2025-08,Aug 2025,cooked perfection onion rings fantastic
+2025-12-06,FR,4,positif,"La poutine est addictive, les sauces maison font toute la différence.",TripAdvisor,11,2025-12,Dec 2025,poutine addictive sauces maison font toute différence
+2025-05-16,FR,3,mitigé,"Bonne nourriture dans l'ensemble, mais la commande était incorrecte au début.",TripAdvisor,11,2025-05,May 2025,bonne nourriture l'ensemble commande incorrecte début
+2025-02-11,FR,5,positif,"Le Béarnaise burger est une merveille, cuisson parfaite.",TripAdvisor,8,2025-02,Feb 2025,béarnaise merveille cuisson parfaite
+2025-07-01,FR,5,positif,meilleur rapport qualité-originalité de toute la ville.,Google Maps,7,2025-07,Jul 2025,meilleur rapport qualité-originalité toute ville
+2026-02-03,FR,5,positif,"Le Double Cheesy est une tuerie absolue, portions généreuses.",Google Maps,9,2026-02,Feb 2026,double cheesy tuerie absolue portions généreuses
+2025-08-27,FR,4,mitigé,Burger délicieux mais l'attente de 40 minutes était vraiment longue.,Google Maps,10,2025-08,Aug 2025,délicieux l'attente minutes longue
+2025-02-22,EN,4,positif,"Great vibe, great food, great service. What more could you ask for?",TripAdvisor,12,2025-02,Feb 2025,vibe food service could ask
+2025-07-30,FR,2,négatif,"Trop cher pour ce que c'est, Smokey's à Casa propose bien mieux pour moins.",TripAdvisor,14,2025-07,Jul 2025,cher smokey's propose mieux
+2026-01-29,FR,5,positif,"Vraiment une bonne surprise, meilleur que ce à quoi je m'attendais.",Google Maps,11,2026-01,Jan 2026,bonne surprise meilleur quoi m'attendais
+2025-12-11,FR,1,négatif,"Service au bord de l'impolitesse, le staff semblait peu motivé.",Google Maps,10,2025-12,Dec 2025,service bord l'impolitesse staff semblait motivé
+2025-06-11,FR,3,mitigé,Très bonne qualité mais les prix sont un peu élevés pour Casablanca.,TripAdvisor,12,2025-06,Jun 2025,bonne qualité prix élevés
+2025-02-20,FR,3,mitigé,"Bonne nourriture dans l'ensemble, mais la commande était incorrecte au début.",TripAdvisor,11,2025-02,Feb 2025,bonne nourriture l'ensemble commande incorrecte début
+2025-08-10,EN,5,positif,"The Béarnaise burger blew my mind, perfectly cooked medium rare.",Google Maps,10,2025-08,Aug 2025,béarnaise blew mind perfectly cooked medium rare
+2025-01-16,FR,1,négatif,"Aucun suivi de la commande, devoir rappeler trois fois le staff.",TripAdvisor,11,2025-01,Jan 2025,aucun suivi commande devoir rappeler trois staff
+2025-08-04,EN,5,positif,Came here twice during our stay. Worth every dirham.,TripAdvisor,9,2025-08,Aug 2025,came twice stay worth every dirham
+2025-12-12,FR,5,positif,"Ambiance New-York au cœur de Casa, j'adore l'endroit.",TripAdvisor,8,2025-12,Dec 2025,ambiance new-york cœur j'adore l'endroit
+2025-06-17,EN,5,positif,"One of the best burgers I've had anywhere in the world, seriously.",TripAdvisor,12,2025-06,Jun 2025,one best anywhere world seriously
+2026-01-12,FR,4,positif,"Burger parfaitement équilibré, bun moelleux, steak haché épais.",Google Maps,8,2026-01,Jan 2026,parfaitement équilibré bun moelleux steak haché épais
+2026-01-09,FR,5,positif,Très belle carte avec plein de choix pour tous les goûts.,Google Maps,11,2026-01,Jan 2026,belle carte plein choix tous goûts
+2025-10-26,FR,5,positif,Les milk-shakes sont divins et les frites croustillantes à souhait.,Google Maps,10,2025-10,Oct 2025,milk-shakes divins frites croustillantes souhait
+2025-04-18,FR,5,positif,"En résumé, option végétarienne délicieuse, même les carnivores se régalent.",Google Maps,10,2025-04,Apr 2025,résumé option végétarienne délicieuse carnivores régalent
+2025-12-17,EN,5,positif,Came here twice during our stay. Worth every dirham.,Google Maps,9,2025-12,Dec 2025,came twice stay worth every dirham
+2025-12-10,FR,5,positif,"On a testé cinq burgers différents, tous excellents sans exception.",Google Maps,10,2025-12,Dec 2025,testé cinq différents tous excellents sans exception
+2025-08-21,FR,2,négatif,"Burger froid à l'arrivée, service complètement désorganisé un vendredi soir.",TripAdvisor,10,2025-08,Aug 2025,froid l'arrivée service complètement désorganisé vendredi soir
+2025-05-01,FR,1,négatif,"ambiance bruyante et tables trop serrées, on ne s'entend pas parler.",TripAdvisor,11,2025-05,May 2025,ambiance bruyante tables serrées s'entend parler
+2025-10-06,FR,3,mitigé,Burger satisfaisant mais les frites étaient trop salées à mon goût.,TripAdvisor,11,2025-10,Oct 2025,satisfaisant frites salées goût
+2025-09-29,FR,4,mitigé,"En résumé, bons produits mais la taille des portions a diminué par rapport à avant.",Google Maps,15,2025-09,Sep 2025,résumé bons produits taille portions diminué rapport avant
+2025-04-25,FR,2,négatif,"burger froid à l'arrivée, service complètement désorganisé un vendredi soir.",TripAdvisor,10,2025-04,Apr 2025,froid l'arrivée service complètement désorganisé vendredi soir
+2025-12-30,FR,3,mitigé,"Franchement, menu bien mais les options végétaliennes restent très limitées.",TripAdvisor,10,2025-12,Dec 2025,franchement menu options végétaliennes restent limitées
+2025-08-02,FR,3,mitigé,Le burger était excellent mais le service du soir était beaucoup plus lent.,Google Maps,13,2025-08,Aug 2025,excellent service soir lent
+2025-03-22,FR,3,mitigé,"Vraiment, bons produits mais la taille des portions a diminué par rapport à avant.",TripAdvisor,14,2025-03,Mar 2025,bons produits taille portions diminué rapport avant
+2025-04-03,FR,2,négatif,"Trop cher pour ce que c'est, Smokey's à Casa propose bien mieux pour moins.",TripAdvisor,14,2025-04,Apr 2025,cher smokey's propose mieux
+2025-01-19,FR,3,mitigé,J'aime l'endroit mais la musique était beaucoup trop forte ce soir-là.,TripAdvisor,11,2025-01,Jan 2025,j'aime l'endroit musique forte soir-là
+2025-11-13,AR,5,positif,أفضل برغر في الدار البيضاء بدون منافس، اللحمة طازجة والصلصات رائعة.,TripAdvisor,11,2025-11,Nov 2025,أفضل برغر الدار البيضاء بدون منافس اللحمة طازجة والصلصات رائعة
+2025-02-16,FR,2,négatif,"Vraiment, le burger du menu de base ne justifie pas du tout son prix excessif.",Google Maps,15,2025-02,Feb 2025,menu base justifie prix excessif
+2025-08-06,FR,4,mitigé,Bon repas globalement mais la terrasse manque vraiment d'ombre en été.,Google Maps,11,2025-08,Aug 2025,bon repas globalement terrasse manque d'ombre
+2025-05-26,EN,4,positif,"Fresh ingredients, creative menu, and reasonable prices for the quality.",Google Maps,10,2025-05,May 2025,fresh ingredients creative menu reasonable prices quality
+2025-08-04,EN,5,positif,Came here twice during our stay. Worth every dirham.,TripAdvisor,9,2025-08,Aug 2025,came twice stay worth every dirham
+2025-04-28,FR,5,positif,"Vraiment, la viande est d'une qualité remarquable, on le sent au premier goût.",TripAdvisor,13,2025-04,Apr 2025,viande d'une qualité remarquable sent premier goût
+2026-02-28,FR,3,mitigé,J'aime l'endroit mais la musique était beaucoup trop forte ce soir-là.,TripAdvisor,11,2026-02,Feb 2026,j'aime l'endroit musique forte soir-là
+2026-01-26,EN,4,positif,The staff was super helpful recommending dishes. All excellent.,Google Maps,9,2026-01,Jan 2026,staff super helpful recommending dishes excellent
+2025-05-28,FR,3,mitigé,L'expérience était bien mais le dessert a tardé anormalement longtemps.,Google Maps,10,2025-05,May 2025,l'expérience dessert tardé anormalement longtemps
+2026-02-12,FR,4,positif,La Béarnaise sauce maison est vraiment exceptionnelle.,Google Maps,7,2026-02,Feb 2026,béarnaise sauce maison exceptionnelle
+2025-10-04,FR,5,positif,"Le Béarnaise burger est une merveille, cuisson parfaite.",TripAdvisor,8,2025-10,Oct 2025,béarnaise merveille cuisson parfaite
+2025-10-07,FR,5,positif,Meilleur rapport qualité-originalité de toute la ville.,TripAdvisor,7,2025-10,Oct 2025,meilleur rapport qualité-originalité toute ville
+2026-02-14,FR,5,positif,"En résumé, meilleur rapport qualité-originalité de toute la ville.",TripAdvisor,9,2026-02,Feb 2026,résumé meilleur rapport qualité-originalité toute ville
+2025-03-17,FR,5,positif,"Option végétarienne délicieuse, même les carnivores se régalent.",Google Maps,8,2025-03,Mar 2025,option végétarienne délicieuse carnivores régalent
+2025-10-23,FR,3,mitigé,"Premier burger excellent, mais le second était un peu trop cuit.",Google Maps,11,2025-10,Oct 2025,premier excellent second cuit
+2026-03-02,FR,5,positif,"Option végétarienne délicieuse, même les carnivores se régalent.",TripAdvisor,8,2026-03,Mar 2026,option végétarienne délicieuse carnivores régalent
+2025-10-17,FR,3,mitigé,sympa pour une fois mais le rapport qualité-prix reste discutable.,Google Maps,10,2025-10,Oct 2025,sympa rapport qualité-prix reste discutable
+2026-03-08,FR,5,positif,La Béarnaise sauce maison est vraiment exceptionnelle.,Google Maps,7,2026-03,Mar 2026,béarnaise sauce maison exceptionnelle
+2026-03-15,FR,5,positif,"Super burger halal, la qualité est au rendez-vous.",Google Maps,8,2026-03,Mar 2026,super halal qualité rendez-vous
+2025-11-09,FR,3,mitigé,"Vraiment, bons produits mais la taille des portions a diminué par rapport à avant.",TripAdvisor,14,2025-11,Nov 2025,bons produits taille portions diminué rapport avant
+2025-03-16,FR,3,mitigé,L'expérience était bien mais le dessert a tardé anormalement longtemps.,TripAdvisor,10,2025-03,Mar 2025,l'expérience dessert tardé anormalement longtemps
+2025-08-21,FR,5,positif,Meilleur rapport qualité-originalité de toute la ville.,Google Maps,7,2025-08,Aug 2025,meilleur rapport qualité-originalité toute ville
+2025-11-02,FR,1,négatif,"Trop cher pour ce que c'est, Smokey's à Casa propose bien mieux pour moins.",Google Maps,14,2025-11,Nov 2025,cher smokey's propose mieux
+2025-06-29,FR,5,positif,le smoothie mangue accompagne parfaitement le burger épicé.,TripAdvisor,8,2025-06,Jun 2025,smoothie mangue accompagne parfaitement épicé
+2025-11-07,FR,4,mitigé,"Vraiment, premier burger excellent, mais le second était un peu trop cuit.",Google Maps,12,2025-11,Nov 2025,premier excellent second cuit
+2025-10-03,EN,5,positif,Burger was cooked to perfection and the onion rings were fantastic.,TripAdvisor,11,2025-10,Oct 2025,cooked perfection onion rings fantastic
+2026-03-09,AR,2,négatif,الانتظار طويل جداً، أكثر من ساعة في نهاية الأسبوع.,Google Maps,9,2026-03,Mar 2026,الانتظار طويل جدا أكثر ساعة نهاية الأسبوع
+2025-04-04,FR,4,positif,le staff connaît bien le menu et donne de bons conseils.,TripAdvisor,11,2025-04,Apr 2025,staff connaît menu donne bons conseils
+2025-09-27,FR,1,négatif,"allergie grave après le burger, fromage potentiellement périmé. Scandaleux.",TripAdvisor,9,2025-09,Sep 2025,allergie grave après fromage potentiellement périmé scandaleux
+2025-08-12,EN,2,négatif,Overpriced for what it is. The hype is really not justified.,TripAdvisor,11,2025-08,Aug 2025,overpriced hype justified
+2025-07-24,FR,1,négatif,"Trop cher pour ce que c'est, Smokey's à Casa propose bien mieux pour moins.",Google Maps,14,2025-07,Jul 2025,cher smokey's propose mieux
+2026-03-14,FR,3,mitigé,Qualité des burgers top mais l'accueil du staff a semblé froid ce jour.,Google Maps,13,2026-03,Mar 2026,qualité top l'accueil staff semblé froid jour
+2026-03-11,FR,5,positif,Les milk-shakes sont divins et les frites croustillantes à souhait.,TripAdvisor,10,2026-03,Mar 2026,milk-shakes divins frites croustillantes souhait
+2025-03-13,FR,5,positif,"accueil chaleureux dès l'entrée, l'équipe est vraiment sympa.",Google Maps,8,2025-03,Mar 2025,accueil chaleureux dès l'entrée l'équipe sympa
+2025-04-19,EN,5,positif,"Great vibe, great food, great service. What more could you ask for?",TripAdvisor,12,2025-04,Apr 2025,vibe food service could ask
+2025-06-11,EN,4,positif,Must visit if you're in Casablanca. The fries are incredible too.,TripAdvisor,11,2025-06,Jun 2025,must visit fries incredible
+2025-07-22,AR,3,mitigé,جيد لكن ليس استثنائياً كما يقولون.,TripAdvisor,6,2025-07,Jul 2025,جيد لكن ليس استثنائيا كما يقولون
+2025-08-21,EN,4,positif,"The milkshakes here are unbelievably good, try the caramelized one.",TripAdvisor,10,2025-08,Aug 2025,milkshakes unbelievably try caramelized one
+2026-03-02,EN,5,positif,Must visit if you're in Casablanca. The fries are incredible too.,Google Maps,11,2026-03,Mar 2026,must visit fries incredible
+2025-10-24,FR,5,positif,"Premier essai et déjà fan, j'y retourne la semaine prochaine.",Google Maps,10,2025-10,Oct 2025,premier essai déjà fan j'y retourne semaine prochaine
+2025-01-28,FR,5,positif,Meilleure adresse burger que j'ai testée au Maroc.,Google Maps,8,2025-01,Jan 2025,meilleure adresse j'ai testée maroc
+2025-08-13,FR,3,mitigé,J'aime l'endroit mais la musique était beaucoup trop forte ce soir-là.,TripAdvisor,11,2025-08,Aug 2025,j'aime l'endroit musique forte soir-là
+2026-03-24,FR,3,mitigé,Burgers corrects mais on est loin des éloges qu'on lit sur internet.,TripAdvisor,12,2026-03,Mar 2026,corrects loin éloges qu'on lit internet
+2026-01-18,FR,5,positif,"En résumé, très belle carte avec plein de choix pour tous les goûts.",Google Maps,13,2026-01,Jan 2026,résumé belle carte plein choix tous goûts
+2025-03-17,FR,1,négatif,"Prix exorbitants pour des portions de plus en plus petites, déception totale.",TripAdvisor,12,2025-03,Mar 2025,prix exorbitants portions petites déception totale
+2025-11-28,EN,5,positif,The staff was super helpful recommending dishes. All excellent.,TripAdvisor,9,2025-11,Nov 2025,staff super helpful recommending dishes excellent
+2025-11-18,FR,4,mitigé,J'aime l'endroit mais la musique était beaucoup trop forte ce soir-là.,Google Maps,11,2025-11,Nov 2025,j'aime l'endroit musique forte soir-là
+2025-04-21,EN,4,positif,Must visit if you're in Casablanca. The fries are incredible too.,Google Maps,11,2025-04,Apr 2025,must visit fries incredible
+2026-01-08,FR,1,négatif,Qualité en baisse par rapport à mes visites précédentes il y a un an.,TripAdvisor,14,2026-01,Jan 2026,qualité baisse rapport visites précédentes
+2025-01-29,EN,2,négatif,No gluten-free bun available even though it's on the menu. Very misleading.,TripAdvisor,12,2025-01,Jan 2025,gluten-free bun available even though menu misleading
+2025-06-12,FR,3,mitigé,Pas mal du tout mais le bruit ambiant rend la conversation difficile.,Google Maps,12,2025-06,Jun 2025,mal bruit ambiant rend conversation difficile
+2025-04-24,FR,1,négatif,"Service au bord de l'impolitesse, le staff semblait peu motivé.",Google Maps,10,2025-04,Apr 2025,service bord l'impolitesse staff semblait motivé
+2025-02-28,EN,5,positif,"The milkshakes here are unbelievably good, try the caramelized one.",TripAdvisor,10,2025-02,Feb 2025,milkshakes unbelievably try caramelized one
+2025-12-09,FR,4,positif,"Les burgers sont juteux et savoureux, on reviendra sans hésiter.",Google Maps,10,2025-12,Dec 2025,juteux savoureux reviendra sans hésiter
+2025-06-09,EN,5,positif,"Best burger I've had in Morocco, hands down. Juicy, fresh, amazing.",Google Maps,11,2025-06,Jun 2025,best morocco hands juicy fresh amazing
+2025-12-08,FR,4,positif,"On a testé cinq burgers différents, tous excellents sans exception.",Google Maps,10,2025-12,Dec 2025,testé cinq différents tous excellents sans exception
+2025-07-15,FR,5,positif,"Vraiment, accueil chaleureux dès l'entrée, l'équipe est vraiment sympa.",TripAdvisor,9,2025-07,Jul 2025,accueil chaleureux dès l'entrée l'équipe sympa
+2025-12-03,FR,2,négatif,"Attente de plus d'une heure un samedi soir, inacceptable pour un fast-food gourmet.",TripAdvisor,13,2025-12,Dec 2025,attente d'une heure samedi soir inacceptable fast-food gourmet
+2025-12-26,FR,3,mitigé,"En résumé, l'expérience était bien mais le dessert a tardé anormalement longtemps.",TripAdvisor,12,2025-12,Dec 2025,résumé l'expérience dessert tardé anormalement longtemps
+2025-05-01,FR,4,positif,"Ambiance New-York au cœur de Casa, j'adore l'endroit.",TripAdvisor,8,2025-05,May 2025,ambiance new-york cœur j'adore l'endroit
+2025-04-24,AR,2,négatif,السعر مبالغ فيه لهذا المستوى من الخدمة.,TripAdvisor,7,2025-04,Apr 2025,السعر مبالغ فيه لهذا المستوى الخدمة
+2025-11-26,FR,5,positif,"La carte change selon les saisons, c'est une bonne idée.",Google Maps,10,2025-11,Nov 2025,carte change selon saisons bonne idée
+2025-04-29,EN,4,positif,Absolutely blown away by the quality. Will definitely come back.,TripAdvisor,10,2025-04,Apr 2025,absolutely blown away quality definitely come back
+2025-11-10,FR,5,positif,"En résumé, le Rossini burger au foie gras est une expérience gastronomique.",Google Maps,12,2025-11,Nov 2025,résumé rossini foie gras expérience gastronomique
+2025-02-17,FR,4,positif,"En résumé, les milk-shakes sont divins et les frites croustillantes à souhait.",TripAdvisor,12,2025-02,Feb 2025,résumé milk-shakes divins frites croustillantes souhait
+2025-04-12,FR,4,mitigé,"Le pain était légèrement sec, dommage car le reste était très bon.",Google Maps,12,2025-04,Apr 2025,pain légèrement sec dommage reste bon
+2025-09-14,EN,2,négatif,"Found plastic in the coleslaw, staff just apologized and offered dessert. Not ok.",Google Maps,13,2025-09,Sep 2025,found plastic coleslaw staff apologized offered dessert
+2025-06-04,FR,4,positif,"Burger cuit exactement comme demandé, médium parfait.",Google Maps,7,2025-06,Jun 2025,cuit exactement demandé médium parfait
